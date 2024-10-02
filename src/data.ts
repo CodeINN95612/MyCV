@@ -91,7 +91,7 @@ export const personalInfo = {
       description:
         "AI chatbot for customer service in Universidad de las Américas",
       duration: "1 year",
-      stack: ["Python", "MongoDB", "React", "C#", "SignalR", "Azure"],
+      stack: ["Python", "React", "C#", "SignalR", "Azure"],
     },
   ],
   certifications: [
